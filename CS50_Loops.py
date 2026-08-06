@@ -22,3 +22,11 @@ left. Above, we are starting i at one, like most humans count (1, 2, 3). If you 
 the code above, you’ll see it meows three times. It’s best practice in programming to
 begin counting with zero"""
 
+
+
+# Here I am trying to use a while loop as an example of 
+#how a washing machine spinner works
+i=5
+while i != 0 : 
+    print("Spinning")
+    i = i -1 
